@@ -1,0 +1,47 @@
+argv[1]: examples/1M.b
+argv[2]: lsout
+sizefile 8000000
+memcheck
+
+hello
+Sublists made
+bubble sort done
+Restored linked listk:797161
+Sublists made
+bubble sort done
+Restored linked listk:265720
+Sublists made
+bubble sort done
+Restored linked listk:88573
+Sublists made
+bubble sort done
+Restored linked listk:29524
+Sublists made
+bubble sort done
+Restored linked listk:9841
+Sublists made
+bubble sort done
+Restored linked listk:3280
+Sublists made
+bubble sort done
+Restored linked listk:1093
+Sublists made
+bubble sort done
+Restored linked listk:364
+Sublists made
+bubble sort done
+Restored linked listk:121
+Sublists made
+bubble sort done
+Restored linked listk:40
+Sublists made
+bubble sort done
+Restored linked listk:13
+Sublists made
+bubble sort done
+Restored linked listk:4
+Sublists made
+bubble sort done
+Restored linked listk:1
+n_comp: 377684492
+count: 1000000
